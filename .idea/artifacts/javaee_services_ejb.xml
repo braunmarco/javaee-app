@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="javaee-services:ejb">
+    <output-path>$PROJECT_DIR$/javaee-services/target</output-path>
+    <root id="archive" name="javaee-services.jar">
+      <element id="artifact" artifact-name="javaee-services:ejb exploded" />
+    </root>
+  </artifact>
+</component>
